@@ -34,7 +34,7 @@ public class Point1
 
     public void deplace(int dx, int dy)
     {
-        x+=dx;
-        y+=dy;
+        this.x+=dx;
+        this.y+=dy;
     }
 }
